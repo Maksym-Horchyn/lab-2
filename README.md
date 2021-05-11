@@ -5,8 +5,8 @@
 ## Хід роботи
 1. Записати (придумати) матрицю суміжності орієнтованого графа `G={7,12}`. Ввести її у лабораторний макет та побудувати візуальне представлення графа.
    
-   ![матриця суміжності](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-06%2000-04-28.png)
-   ![граф](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-06%2000-04-50.png)
+   ![матриця суміжності](https://github.com/Maksym-Horchyn/lab-2/blob/main/Screenshot%20from%202021-04-06%2000-04-28.png)
+   ![граф](https://github.com/Maksym-Horchyn/lab-2/blob/main/Screenshot%20from%202021-04-06%2000-04-50.png)
    
     1. Чи є у побудованому графі ізольовані вершини або незв’язні компоненти? *Tак* - назвіть їх; *Hі* - які ребра потрібно видалити щоб вони утворились? 
     
@@ -21,17 +21,17 @@
     5. Чи існує в графі цикл обходу ребер (_цикл Єйлера_); *Так* - вкажіть послідовність ребер, що входять до даного циклу; *Hі* - що потрібно змінити в графі щоб даний цикл існував;
     **Відповідь: Не існує. Для існування циклу Ейлера необхідно, щоби не більше ніж дві вершини мали непарний степінь.**
     6. Побудувати доповнення (обернений) графа `G`.
-    ![vffg](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-18%2023-33-20.png)
-    ![fg](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-18%2023-33-02.png)
+    ![vffg](https://github.com/Maksym-Horchyn/lab-2/blob/main/Screenshot%20from%202021-04-18%2023-33-20.png)
+    ![fg](https://github.com/Maksym-Horchyn/lab-2/blob/main/Screenshot%20from%202021-04-18%2023-33-02.png)
 1. За допомогою лабораторного макету побудувати випадковий неорієнтований граф `G={7,15}` та записати його матрицю суміжності.
  
- ![граф](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-06%2000-52-23.png)
+ ![граф](https://github.com/Maksym-Horchyn/lab-2/blob/main/Screenshot%20from%202021-04-06%2000-52-23.png)
  
- ![матриця суміжності](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-06%2000-52-42.png)
+ ![матриця суміжності](https://github.com/Maksym-Horchyn/lab-2/blob/main/Screenshot%20from%202021-04-06%2000-52-42.png)
 	
 1. За допомогою лабораторного макету побудувати випадковий орієнтований граф `G={5,10}` та записати його матрицю відповідностей (інцедентності).
-![alt](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-18%2023-42-47.png)
-![alt](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-18%2023-42-25.png)
+![alt](https://github.com/Maksym-Horchyn/lab-2/blob/main/Screenshot%20from%202021-04-18%2023-42-47.png)
+![alt](https://github.com/Maksym-Horchyn/lab-2/blob/main/Screenshot%20from%202021-04-18%2023-42-25.png)
 	1. Як з матриці відповідностей можна визначити ступінь кожної вершини?
    **Відповідь: по кількості одиниць у рядку матриці, який позначає певну вершину.**
 1. Задано граф `G` та `M`.
@@ -43,11 +43,11 @@
     1. Записати їх матриці суміжності та побудувати графічне представлення.
     
     **Граф G**
-    ![матриця суміжності G](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-17%2013-46-14.png)
-    ![граф G](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-17%2013-46-31.png)
+    ![матриця суміжності G](https://github.com/Maksym-Horchyn/lab-2/blob/main/Screenshot%20from%202021-04-17%2013-46-14.png)
+    ![граф G](https://github.com/Maksym-Horchyn/lab-2/blob/main/Screenshot%20from%202021-04-17%2013-46-31.png)
     **Граф M**
-    ![граф M](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-17%2013-23-56.png)
-    ![матриця суміжності M](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-17%2013-23-42.png)
+    ![граф M](https://github.com/Maksym-Horchyn/lab-2/blob/main/Screenshot%20from%202021-04-17%2013-23-56.png)
+    ![матриця суміжності M](https://github.com/Maksym-Horchyn/lab-2/blob/main/Screenshot%20from%202021-04-17%2013-23-42.png)
     2. Графи орієнтовані чи неорієнтовані? 
     **Відповідь:** 
     **Граф G - орієнтований.**
